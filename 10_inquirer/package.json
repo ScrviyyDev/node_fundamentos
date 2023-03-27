@@ -1,0 +1,10 @@
+{
+  "name": "10_inquirer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.1.5"
+  }
+}
